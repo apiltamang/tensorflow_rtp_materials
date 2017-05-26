@@ -30,3 +30,9 @@ Be sure to activate the 'tensorflow_dlrtp' environment before attempting to run 
  - jupyter notebook
  
  And that's it! Once this is done, be sure to checkout the notebooks posted weekly in the corresponding folders. There might be assignments you could challenge yourself to too... happy learning!
+
+Weekly Previews
+----------------
+[WEEK-1](https://github.com/apiltamang/tensorflow_rtp_materials/tree/master/week-1): Exploration of some basic tensorflow constructs: i.e. tensors, ranks, and basic math operations
+
+[WEEK-2](https://github.com/apiltamang/tensorflow_rtp_materials/tree/master/week-1): Construction of a simple multi-layer perceptron. Very simple indeed, to avoid information overload. Makes use of the preloaded mnist data-set in tensorflow.
