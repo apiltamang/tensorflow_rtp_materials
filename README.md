@@ -35,4 +35,4 @@ Weekly Previews
 ----------------
 [WEEK-1](https://github.com/apiltamang/tensorflow_rtp_materials/tree/master/week-1): Exploration of some basic tensorflow constructs: i.e. tensors, ranks, and basic math operations
 
-[WEEK-2](https://github.com/apiltamang/tensorflow_rtp_materials/tree/master/week-1): Construction of a simple multi-layer perceptron. Very simple indeed, to avoid information overload. Makes use of the preloaded mnist data-set in tensorflow.
+[WEEK-2](https://github.com/apiltamang/tensorflow_rtp_materials/tree/master/week-2): Construction of a simple multi-layer perceptron. Very simple indeed, to avoid information overload. Makes use of the preloaded mnist data-set in tensorflow.
