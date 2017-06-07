@@ -27,4 +27,5 @@ followed by the following statements in a lower cell:
 
 The entire operation above can be simplified to one statement using tensorflow's built-in [tf.layers.dense](https://www.tensorflow.org/api_docs/python/tf/layers/dense) method. This is illustrated in the second file in this folder.
 
-    hidden_outputs = tf.layers.dense(inputs=features, units=n_labels, activation=tf.nn.relu, use_bias=True)
+    hidden_outputs = tf.layers.dense(inputs=features, units=n_hidden, activation=tf.nn.relu, use_bias=True)
+    final_outputs = tf.layers.dense(inputs=hidden_outputs, units=n_labels, activation=tf.nn.relu, use_bias=True)
