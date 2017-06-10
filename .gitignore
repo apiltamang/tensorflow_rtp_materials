@@ -1,2 +1,3 @@
 .ipynb_checkpoints/
 *.gz
+*/.ipynb_checkpoints/
