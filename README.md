@@ -38,3 +38,9 @@ Weekly Previews
 [WEEK-2](https://github.com/apiltamang/tensorflow_rtp_materials/tree/master/week-2): Construction of a simple multi-layer perceptron. Very simple indeed, to avoid information overload. Makes use of the preloaded mnist data-set in tensorflow.
 
 [WEEK-3](https://github.com/apiltamang/tensorflow_rtp_materials/tree/master/week-3): Usage of tensorboard to view statistics of a simple convolution network. Thanks Matt Phillips for that
+
+[WEEK-4]
+
+[WEEK-5](https://github.com/apiltamang/tensorflow_rtp_materials/tree/master/week-5): John shows us how to develop models in keras as a part of tensorflow. The model reduces the complexity of building and training the model significantly, but I wonder how easy it is to include more basic tensorflow nodes (i.e. tensors, computational nodes etc) into the keras model.
+
+[WEEK-6](https://github.com/apiltamang/tensorflow_rtp_materials/tree/master/week-6): We look at the a very simple GAN model. I suppose the GAN model could be better in terms of generating the output images. GAN models are acclaimed for being notoriously difficult to train, including being very sensitive to hyper-parameters. Hence, lot of experimentations needed.
