@@ -1,3 +1,5 @@
 .ipynb_checkpoints/
 *.gz
+week-6/__pycache__/
+week-6/data/
 */.ipynb_checkpoints/
