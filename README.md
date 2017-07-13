@@ -44,3 +44,9 @@ Weekly Previews
 [WEEK-5](https://github.com/apiltamang/tensorflow_rtp_materials/tree/master/week-5): John shows us how to develop models in keras as a part of tensorflow. The model reduces the complexity of building and training the model significantly, but I wonder how easy it is to include more basic tensorflow nodes (i.e. tensors, computational nodes etc) into the keras model.
 
 [WEEK-6](https://github.com/apiltamang/tensorflow_rtp_materials/tree/master/week-6): We look at the a very simple GAN model. I suppose the GAN model could be better in terms of generating the output images. GAN models are acclaimed for being notoriously difficult to train, including being very sensitive to hyper-parameters. Hence, lot of experimentations needed.
+
+[WEEK-7](https://github.com/apiltamang/tensorflow_rtp_materials/tree/master/week-7): We look at a number of implementations of recurrent nets by both building them from a scratch, and by using tensorflow provided APIs (BasicRNNCell, BasicLSTMCell). We try to solve the problem of character level encoding using the prescribed RNNs.
+
+[WEEK-8](https://github.com/apiltamang/tensorflow_rtp_materials/tree/master/week-8): Brief analysis of classical machine learning methods vs deep learning methods.
+
+[WEEK-9]((https://github.com/apiltamang/tensorflow_rtp_materials/tree/master/week-9): We use LSTMs to model a sentiment analysis problem. The problem is that of modelling distribution of words (as opposed to characters in WEEK-7). Hypothetically, LSTMs should result in better accuracy for this problem than opposed to using a simple dense-layer for classification. We might/not see that, and work is in progress.
