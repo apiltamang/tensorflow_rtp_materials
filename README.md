@@ -49,4 +49,4 @@ Weekly Previews
 
 [WEEK-8](https://github.com/apiltamang/tensorflow_rtp_materials/tree/master/week-8): Brief analysis of classical machine learning methods vs deep learning methods.
 
-[WEEK-9]((https://github.com/apiltamang/tensorflow_rtp_materials/tree/master/week-9): We use LSTMs to model a sentiment analysis problem. The problem is that of modelling distribution of words (as opposed to characters in WEEK-7). Hypothetically, LSTMs should result in better accuracy for this problem than opposed to using a simple dense-layer for classification. We might/not see that, and work is in progress.
+[WEEK-9](https://github.com/apiltamang/tensorflow_rtp_materials/tree/master/week-9): We use LSTMs to model a sentiment analysis problem. The problem is that of modelling distribution of words (as opposed to characters in WEEK-7). Hypothetically, LSTMs should result in better accuracy for this problem than opposed to using a simple dense-layer for classification. We might/not see that, and work is in progress.
