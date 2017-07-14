@@ -10,7 +10,7 @@ Environment Setup
 -----------------
 We will be using [anaconda](https://docs.continuum.io/anaconda/install) to setup a contained python environment. Make sure you download anaconda to your computer. Once this is done, you may do the following to install the required packages:
 
- - conda create -n tensorflow_dlrtp python=3.5 (Creates a new environment)
+ - conda create -n tensorflow_dlrtp python=3 (Creates a new python 3 environment based on latest version (3.6 at moment of writing))
  - source activate tensorflow_dlrtp (Activates the environment)
  - conda install -c conda-forge tensorflow=1.0.0 (Installs tensorflow)
  - conda install jupyter=1.0.0 (Installs Jupyter)
@@ -28,6 +28,7 @@ Be sure to activate the 'tensorflow_dlrtp' environment before attempting to run 
 
  - source activate tensorflow_dlrtp
  - jupyter notebook
+ - [In my OS X environment, I've had to run the following on the terminal to be able to run the jupyter-notebook too. Only do if necessary]: "unset PYTHONPATH"
  
  And that's it! Once this is done, be sure to checkout the notebooks posted weekly in the corresponding folders. There might be assignments you could challenge yourself to too... happy learning!
 
@@ -49,4 +50,4 @@ Weekly Previews
 
 [WEEK-8](https://github.com/apiltamang/tensorflow_rtp_materials/tree/master/week-8): Brief analysis of classical machine learning methods vs deep learning methods.
 
-[WEEK-9](https://github.com/apiltamang/tensorflow_rtp_materials/tree/master/week-9): We use LSTMs to model a sentiment analysis problem. The problem is that of modelling distribution of words (as opposed to characters in WEEK-7). Hypothetically, LSTMs should result in better accuracy for this problem than opposed to using a simple dense-layer for classification. We might/not see that, and work is in progress.
+[WEEK-9](https://github.com/apiltamang/tensorflow_rtp_materials/tree/master/week-9): We use LSTMs to model a sentiment analysis problem. This problem is that of modelling distribution of words (as opposed to characters in WEEK-7). Hypothetically, LSTMs should result in better accuracy for this problem than opposed to using a simple dense-layer for classification. I haven't done a direct comparison against dense-layer for that matter, but pointed to results in a different notebook for some comparison. 
