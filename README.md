@@ -54,6 +54,8 @@ Weekly Previews
 
 [WEEK-10](https://github.com/apiltamang/tensorflow_rtp_materials/tree/master/week-10): We use LSTMs to create an encoder-decoder architecture for language translation. In some-ways, this is one of the most prominent applications of RNNs and paved way for its (deep-learnings) foray into solving problems in vast array of domains. It took me about a month to get this network to produce anything meaningful, so definitely don't be disheartened with early failures. And, it took me a month (~30 hrs of work, working about an hour each morning) even though this was something I had already tackled in Udacity's dee-learning course. So.. getting familiar with tensorflow and debugging it definitely carries  a steep learning curve!
 
+[WEEK-11](https://github.com/apiltamang/tensorflow_rtp_materials/tree/master/week-11): In this folder, I've created a small experimental autoencoder code to perform a pseudo image-similarity search. This effort should be taken more as an exercise in building an autoencoder than anything else. However, based on the analysis, it's interesting to see which digits are considered being most similar to other digits in MNIST. Apparently the number 8 appears as being most similar to most other digits! Interesting... :)
+
 Moving on
 -------------
 Tensorflow's a heck of a framework, as you've probably noticed by now, and if you're not sweating blood doing nary a thing on it, you're probably a genius (unlike most of us). Rumors abound on how much more efficient PyTorch is, including the fact that it's faster and just plain easier to work with. Thus, I'll be attempting to do proceeding work in PyTorch. Hopefully it'll be a smoother ride in that you're not fighting the framework so much more.
