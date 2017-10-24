@@ -38,9 +38,7 @@ Weekly Previews
 
 [WEEK-2](https://github.com/apiltamang/tensorflow_rtp_materials/tree/master/week-2): Construction of a simple multi-layer perceptron. Very simple indeed, to avoid information overload. Makes use of the preloaded mnist data-set in tensorflow.
 
-[WEEK-3](https://github.com/apiltamang/tensorflow_rtp_materials/tree/master/week-3): Usage of tensorboard to view statistics of a simple convolution network. Thanks Matt Phillips for that
-
-[WEEK-4]
+[WEEK-3](https://github.com/apiltamang/tensorflow_rtp_materials/tree/master/week-3): Usage of tensorboard to view statistics of a simple convolution network. Thanks Matt Phillips for that.
 
 [WEEK-5](https://github.com/apiltamang/tensorflow_rtp_materials/tree/master/week-5): John shows us how to develop models in keras as a part of tensorflow. The model reduces the complexity of building and training the model significantly, but I wonder how easy it is to include more basic tensorflow nodes (i.e. tensors, computational nodes etc) into the keras model.
 
@@ -48,7 +46,7 @@ Weekly Previews
 
 [WEEK-7](https://github.com/apiltamang/tensorflow_rtp_materials/tree/master/week-7): We look at a number of implementations of recurrent nets by both building them from a scratch, and by using tensorflow provided APIs (BasicRNNCell, BasicLSTMCell). We try to solve the problem of character level encoding using the prescribed RNNs.
 
-[WEEK-8](https://github.com/apiltamang/tensorflow_rtp_materials/tree/master/week-8): Brief analysis of classical machine learning methods vs deep learning methods.
+[WEEK-8](https://www.slideshare.net/ChaoHanchaohanvtedu/deep-cnn-vs-conventional-ml-81059441?trk=v-feed): Chao Han presents a brief analysis of classical machine learning methods vs deep learning methods, specially for image processing.
 
 [WEEK-9](https://github.com/apiltamang/tensorflow_rtp_materials/tree/master/week-9): We use LSTMs to model a sentiment analysis problem. This problem is that of modelling distribution of words (as opposed to characters in WEEK-7). Hypothetically, LSTMs should result in better accuracy for this problem than opposed to using a simple dense-layer for classification. I haven't done a direct comparison against dense-layer for that matter, but pointed to results in a different notebook for some comparison. 
 
